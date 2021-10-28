@@ -20,9 +20,10 @@
 
 <p>
 <!-- Kotlin --><a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" height="32"/> </a>
-<!-- Python --><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="32"/> </a>
+<!-- C# --><a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.svg" alt="C#" height="32"/> </a>
 <!-- C --><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="32"/> </a>
 <!-- C++ --><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="32"/> </a>
+<!-- Python --><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="32"/> </a>
 <!-- Git --><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="32"/> </a>
 <!-- Linux --><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="32"/> </a>
 <!-- Bash --><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="32"/> </a>
