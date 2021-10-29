@@ -30,6 +30,6 @@
 <!-- TeX --><a href="https://tug.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TeX_logo.svg/1920px-TeX_logo.svg.png" alt="TeX" height="32"/> </a>
 
 <div display="inline-flex"  align-items="center" justify-content="space-between">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bazalii&show_icons=true&theme=onedark&count_private=true&locale=en" alt="Bazalii" /> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bazalii&show_icons=true&theme=onedark&langs_count=10&hide=CMake,Makefile,PowerShell,BatchFile,HTML&locale=en&layout=compact" alt="Bazalii" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bazalii&show_icons=true&theme=onedark&count_private=true&locale=en" alt="Bazalii" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bazalii&show_icons=true&theme=onedark&langs_count=10&hide=CMake,Makefile,PowerShell,BatchFile,HTML&locale=en&layout=compact" alt="Bazalii" />
 </div>
