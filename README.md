@@ -2,7 +2,7 @@
 ## second year university Student from Saint-Petersburg, Russia
 
 <!-- Badges -->
-![Profile views](https://komarev.com/ghpvc/?username=Bazalii&style=flat%22")
+![Profile views](https://komarev.com/ghpvc/?username=Bazalii&color=blue&style=flat-square")
 ![Stars](https://img.shields.io/github/stars/Bazalii)
 ![Followers](https://img.shields.io/github/followers/Bazalii)
 
@@ -28,7 +28,8 @@
 <!-- Linux --><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="32"/> </a>
 <!-- Bash --><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="32"/> </a>
 <!-- TeX --><a href="https://tug.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TeX_logo.svg/1920px-TeX_logo.svg.png" alt="TeX" height="32"/> </a>
-  
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lipen&show_icons=true&theme=onedark&locale=en" alt="lipen" /></p> -->
 
-<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lipen&show_icons=true&theme=onedark&locale=en&layout=compact" alt="lipen" /></p> -->
+<div display="inline-flex"  align-items="center" justify-content="space-between">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bazalii&show_icons=true&theme=onedark&count_private=true&locale=en" alt="Bazalii" /> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bazalii&show_icons=true&theme=onedark&langs_count=10&hide=CMake,Makefile,PowerShell,BatchFile,HTML&locale=en&layout=compact" alt="Bazalii" />
+</div>
