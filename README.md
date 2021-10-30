@@ -1,5 +1,5 @@
-# Hi there 👋, My name is Ivan,
-## second year university Student from Saint-Petersburg, Russia
+# Hi there 👋 My name is Ivan
+## I'm second year university Student from Saint-Petersburg, Russia
 
 <!-- Badges -->
 ![Profile views](https://komarev.com/ghpvc/?username=Bazalii&color=blue&style=flat-square")
