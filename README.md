@@ -31,5 +31,5 @@
 
 <div display="inline-flex"  align-items="center" justify-content="space-between">
   <img src="https://github-readme-stats.vercel.app/api?username=Bazalii&show_icons=true&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&count_private=true&locale=en" alt="Bazalii" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bazalii&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&layout=compact&card_width =350&langs_count=10&hide=CMake,Makefile,PowerShell,BatchFile,HTML&locale=en" alt="Bazalii" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bazalii&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&layout=compact&card_width =350&langs_count=10&hide=CMake,Makefile,Arc,PowerShell,BatchFile,HTML&locale=en" alt="Bazalii" />
 </div>
