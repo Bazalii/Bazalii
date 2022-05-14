@@ -56,5 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bazalii&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&layout=compact&card_width =350&langs_count=10&hide=CMake,Makefile,Arc,PowerShell,BatchFile,HTML&locale=en" alt="Bazalii" />
 </div>
 
+![Bazalii wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bazalii&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&layout=compact)
+
 [![Tinkoff-Fintech Card](https://github-readme-stats.vercel.app/api/pin/?username=Bazalii&repo=Tinkoff-Fintech&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30)](https://github.com/Bazalii/Tinkoff-Fintech)
 [![Student_Life_Simulator Card](https://github-readme-stats.vercel.app/api/pin/?username=Bazalii&repo=Student_Life_Simulator&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30)](https://github.com/Bazalii/Student_Life_Simulator)
