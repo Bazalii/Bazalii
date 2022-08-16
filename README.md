@@ -7,9 +7,9 @@
 ![Followers](https://img.shields.io/github/followers/Bazalii)
 [![Wakatime](https://wakatime.com/badge/user/a392ab77-7255-4a39-922d-f116882f9f68.svg)](https://wakatime.com/@a392ab77-7255-4a39-922d-f116882f9f68)
 
-👨‍💻 I'm currently working on: [MiniBank](https://github.com/Bazalii/Tinkoff-Fintech) and university projects
+👨‍💻 I'm currently working on: Mapins startup and university projects
 
-:books: I'm currently learning: C#(ASP.NET Core, Entity Framework), Java, MySQL
+:books: I'm currently learning: C#, Kotlin, Quarkus
 
 📧 Ask me about everything: https://t.me/IvanBazalii
 
