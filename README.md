@@ -1,13 +1,13 @@
 ## Hi there 👋 My name is Ivan
-### I'm Middle+ C# Backend developer and fourth year ITMO University Student
+### I'm Senior C# Backend developer, bachelor and tutor of ITMO University Student
 
 <!-- Badges -->
 ![Profile views](https://komarev.com/ghpvc/?username=Bazalii&color=blue&style=flat-square")
 ![Stars](https://img.shields.io/github/stars/Bazalii)
 [![Wakatime](https://wakatime.com/badge/user/a392ab77-7255-4a39-922d-f116882f9f68.svg)](https://wakatime.com/@a392ab77-7255-4a39-922d-f116882f9f68)
 
-- Middle+ C# backend developer at [loads.ati.su](https://loads.ati.su/)
-- Head backend developer at [geolin](https://geolin.ru/)
+- Senior C# backend developer at [loads.ati.su](https://loads.ati.su/)
+- Teamlead and techlead at [geolin](https://geolin.ru/)
 - Contact me: [t.me/IvanBazalii](https://t.me/IvanBazalii)
 
 ### Skills
@@ -21,11 +21,6 @@
 <!-- Docker --><a href="https://www.docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40"/> </a>
 <!-- Consul --><a href="https://www.consul.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/consul/consul-original.svg" alt="Consul" height="40"/> </a>
 <!-- Kotlin --><a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" height="40"/> </a>
-
-### Stack
-- ASP.NET Core
-- Entity Framework
-- Dapper
 
 <div display="inline-flex"  align-items="center" justify-content="space-between">
   <img src="https://github-readme-stats.vercel.app/api?username=Bazalii&show_icons=true&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&count_private=true&locale=en&include_all_commits=true" alt="Bazalii" /> 
