@@ -23,9 +23,10 @@
 <!-- Kotlin --><a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" height="40"/> </a>
 
 <div display="inline-flex"  align-items="center" justify-content="space-between">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Bazalii&show_icons=true&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&count_private=true&locale=en&include_all_commits=true" alt="Bazalii" /> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bazalii&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&layout=compact&card_width=250&langs_count=8&hide=Jupyter%20Notebook,CMake,Makefile,Arc,PowerShell,BatchFile,HTML,Dockerfile&locale=en" /> 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bazalii&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&layout=compact&langs_count=8&card_width=250" /> 
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bazalii&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&layout=compact&card_width=250&langs_count=8&hide=Jupyter%20Notebook,CMake,Makefile,Arc,PowerShell,BatchFile,HTML,Dockerfile&locale=en" /> 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bazalii&bg_color=151515&title_color=fff&text_color=ffffff&icon_color=0b92f8&border_color=0b92f8&border_radius=30&layout=compact&langs_count=8&card_width=250" />  -->
  
 </div>
 
